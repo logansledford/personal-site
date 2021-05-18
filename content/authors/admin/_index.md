@@ -38,7 +38,7 @@ social:
   link: https://github.com/logansledford
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/logan-ledford-3085661b5
+  link: https://www.linkedin.com/in/logan-ledford-3085661b5/
 superuser: true
 title: Logan Ledford
 ---
