@@ -43,4 +43,4 @@ superuser: true
 title: Logan Ledford
 ---
 
-I am beginning my third year (fall 2022) as a Ph.D. student in criminal justice and criminology at Georgia State University. My research interests include policing and network analysis generally, and I hope to intersect the two fields to advance policing research. Outside of academia, I enjoy watching sports (specifically Braves baseball) and movies/tv shows and, when time permits, playing disc golf.  
+I am beginning my third year (Fall 2022) as a Ph.D. student in criminal justice and criminology at Georgia State University. My research interests include policing and network analysis generally, and I hope to intersect the two fields to advance policing research. Outside of academia, I enjoy watching sports (specifically Braves baseball) and movies/tv shows and, when time permits, playing disc golf.  
