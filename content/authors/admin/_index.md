@@ -13,9 +13,8 @@ education:
 email: "lledford6@student.gsu.edu"
 highlight_name: false
 interests:
-- Rural Crime
 - Policing
-- Public/media opinion and police
+- Social network analysis
 organizations:
 - name: Georgia State University
   url: https://aysps.gsu.edu/criminal-justice-criminology/
