@@ -14,7 +14,7 @@ image:
   preview_only: false
 projects:
 - internal-project
-publication: "Police Practice and Research: An International Journal, *22*(1), 274-289"
+publication: "*Police Practice and Research: An International Journal*, *22*(1), 274-289"
 publication_short: ""
 publication_types:
 - "2"

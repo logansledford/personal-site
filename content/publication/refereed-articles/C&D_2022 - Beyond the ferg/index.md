@@ -14,7 +14,7 @@ image:
   preview_only: false
 projects:
 - internal-project
-publication: "Crime & Delinquency, *Online First*."
+publication: "*Crime & Delinquency*, *Online First*"
 publication_short: ""
 publication_types:
 - "2"
