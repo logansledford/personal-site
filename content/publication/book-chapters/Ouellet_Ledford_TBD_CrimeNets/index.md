@@ -4,7 +4,6 @@ authors:
 - Ouellet M
 - Ledford L
 
-date: "2022-01-01T00:00:00Z"
 featured: false
 image:
   caption:
