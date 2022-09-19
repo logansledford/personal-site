@@ -4,7 +4,7 @@ authors:
 - Ouellet M
 - Ledford L
 
-date: "2023-01-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 featured: false
 image:
   caption:
@@ -12,7 +12,7 @@ image:
   preview_only: false
 projects:
 - internal-project
-publication: "In McLevey, J., Carrington, P., & Scott, J. *Sage Handbook of Social Network Analysis (2nd)*. Sage"
+publication: "Forthcoming In McLevey, J., Carrington, P., & Scott, J. *Sage Handbook of Social Network Analysis (2nd)*. Sage"
 publication_short: ""
 publication_types:
 - "6"
