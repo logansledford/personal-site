@@ -3,7 +3,7 @@ education:
   courses:
   - course: PhD in Criminal Justice and Criminology
     institution: Georgia State University
-    year: 2023 (Anticipated)
+    year: 2024 (Anticipated)
   - course: M.A. Criminal Justice and Criminology
     institution: East Tennessee State University
     year: 2019
@@ -15,6 +15,7 @@ highlight_name: false
 interests:
 - Policing
 - Social network analysis
+- Criminal networks and groups
 organizations:
 - name: Georgia State University
   url: https://aysps.gsu.edu/criminal-justice-criminology/
@@ -42,4 +43,4 @@ superuser: true
 title: Logan Ledford
 ---
 
-I am beginning my third year (Fall 2022) as a Ph.D. student in criminal justice and criminology at Georgia State University. My research interests include policing and network analysis generally, and I hope to intersect the two fields to advance policing research. Outside of academia, I enjoy watching sports (specifically Braves baseball) and movies/tv shows and, when time permits, playing disc golf.  
+I am in my third year as a Ph.D. student in criminal justice and criminology at Georgia State University. My research interests include policing and network analysis generally, and I hope to intersect the two fields to advance policing research. Outside of academia, I enjoy watching sports (specifically Braves baseball) and movies/tv shows and, when time permits, playing disc golf.  

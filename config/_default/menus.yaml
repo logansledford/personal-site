@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: CV
-    url: media/Ledford_CV_2022.pdf
+    url: media/Ledford_CV.pdf
     weight: 20
   - name: Posts
     url: post/
